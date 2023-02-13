@@ -1,0 +1,4 @@
+repository "PokemonGOGOGO@ssl://unity_xjnrl3rmghchrw@sh02-plasticscm.unity.cn:8787"
+  path "/"
+    smartbranch "/main/lt2496818590" changeset "145"              
+     
